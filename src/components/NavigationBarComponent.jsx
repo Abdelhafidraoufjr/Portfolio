@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-scroll";
 import {
-  House,
+  Home,
   User,
   Wrench,
   FolderOpen,
@@ -14,7 +14,7 @@ import {
 } from "lucide-react";
 
 const NavigationBarItems = [
-  { name: "Home", to: "home", icon: House },
+  { name: "Home", to: "home", icon: Home },
   { name: "About", to: "about", icon: User },
   { name: "Education", to: "education", icon: GraduationCap },
   { name: "Skills", to: "skills", icon: Wrench },
