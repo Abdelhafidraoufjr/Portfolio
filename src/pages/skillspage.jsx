@@ -6,7 +6,7 @@ import Vite from '../assets/vite.svg';
 import Js from '../assets/js.png';
 import Nextjs from '../assets/next.png';
 import Redux from '../assets/redux.png';
-import TypeScript from '../assets/typescript.png';
+import TypeScript from '../assets/Typescript.png';
 import Figma from '../assets/figma.png';
 import Nodejs from '../assets/node.png';
 import Expressjs from '../assets/express.png';
